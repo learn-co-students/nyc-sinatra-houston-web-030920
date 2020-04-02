@@ -120,6 +120,7 @@ seed data by running `rake db:seed`.
 
 #### Views and Controllers
 
+
 You should create a Landmarks Controller and a Figures Controller. This lab is
 test-driven; it may be possible to create an app that behaves as expected but
 will not pass the specific tests. Use these tests to determine how to structure
